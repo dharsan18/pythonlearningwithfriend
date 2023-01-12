@@ -9,6 +9,6 @@ elif(tip==15):
     t=int(rate*(tip/100))
 count=int(input("How many people to split the bill? "))
 pay= int((rate+t)/count)
-print(f"EaAssch person should pay: ${pay} ")
+print(f"Each person should pay: ${pay} ")
     
     
